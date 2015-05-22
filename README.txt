@@ -1,3 +1,7 @@
+I am not the original owener, but have used the module for several applications.
+Added to GitHub to support the SuiteCRM / SugarCRM Community and keep the module updated.
+
+
 DTG AUTO INCREMENT FIELD FOR SUGARCRM
 Version 0.1 BETA, 27 June 2012
 
